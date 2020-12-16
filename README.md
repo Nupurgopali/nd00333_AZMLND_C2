@@ -87,14 +87,16 @@ to improve the project.
 
 ![image](https://user-images.githubusercontent.com/53776611/102336582-5dc9bf80-3fb7-11eb-82dd-3ea97572da3a.png)
 
+### Pipeline Endpoint
+
+![Capture](https://user-images.githubusercontent.com/53776611/102343449-93bf7180-3fc0-11eb-873d-f45894834a5f.PNG)
+
 
 ### Scheduled Run 
 
-![image](https://user-images.githubusercontent.com/53776611/102202568-7ff70b00-3eed-11eb-9a5b-2c4d01c6785f.png)
+![image](https://user-images.githubusercontent.com/53776611/102343501-a639ab00-3fc0-11eb-9d3e-13066d1cfab1.png)
 
-### Showing "User Widgets Step Run"
 
-![image](https://user-images.githubusercontent.com/53776611/102202652-9d2bd980-3eed-11eb-9123-0d9653d63719.png)
 
 ## URL for the video
-#### LINK :https://youtu.be/NnXkG2-FXno
+#### LINK :https://youtu.be/0uVqUzB2A1Y
