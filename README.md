@@ -13,9 +13,10 @@ We were asked to use Azure to configure a cloud-based machine learning productio
 <li>Documentation</li></p>
 
 ## Architectural Diagram
-Flow of the ML model is given below:
 
-Create automl model --> Deploy the best model --> Enable application insights --> Interact using swagger documentation --> Consume model endpoints --> Create --> Consume --> Publish Pipeline.
+![image](https://user-images.githubusercontent.com/53776611/102314164-ffd9af80-3f97-11eb-83f6-b01844316471.png)
+
+
 ## Improve the Project
 The project can be further improved by using different hyperparameters as it might increase the model's accuracy, using different authentication method.Tweaking parameters in the automl configurations and setting can also improve the project.These methods can be used
 to improve the project.
