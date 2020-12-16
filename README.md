@@ -1,6 +1,6 @@
 
 # Overview of the Project
-We were asked to use Azure to configure a cloud-based machine learning production model, deploy it, and consume it.Also to create, publish, and consume a pipeline.
+We were asked to use Azure to configure a cloud-based machine learning production model, deploy it, and consume it.Also to create, publish, and consume a pipeline.The aim of the project was to learn about Operationalizing Machine Learning model by deploying a machine learning model to an endpoint which is a URL that can be easily accessed by any end-user.
 
 <p>In this project, the following steps were executed:
   <li>Authentication</li>
