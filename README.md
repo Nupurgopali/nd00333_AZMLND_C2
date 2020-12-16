@@ -83,12 +83,12 @@ to improve the project.
 
 ![image](https://user-images.githubusercontent.com/53776611/102201954-c6983580-3eec-11eb-9b68-a84358455c17.png)
 
-### Bankmarket dataset with automl model
+### "Registered Dataset" of the Azure ML Studio
 
-![image](https://user-images.githubusercontent.com/53776611/102202395-432b1400-3eed-11eb-9c8e-76b332c87773.png)
-![image](https://user-images.githubusercontent.com/53776611/102202457-550cb700-3eed-11eb-8a3a-e8b67032c3b2.png)
+![image](https://user-images.githubusercontent.com/53776611/102336582-5dc9bf80-3fb7-11eb-82dd-3ea97572da3a.png)
 
-### Scheduled Run
+
+### Scheduled Run 
 
 ![image](https://user-images.githubusercontent.com/53776611/102202568-7ff70b00-3eed-11eb-9a5b-2c4d01c6785f.png)
 
